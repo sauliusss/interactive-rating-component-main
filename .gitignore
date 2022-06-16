@@ -1,3 +1,8 @@
+package-lock.json
+/node_modules
+/.vscode
+.DS_Store
+
 # Avoid accidental upload of the Sketch and Figma design files
 #####################################################
 ## Please do not remove lines 5 and 6 - thanks! 🙂 ##
