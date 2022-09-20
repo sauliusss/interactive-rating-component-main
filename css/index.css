@@ -55,6 +55,11 @@ button {
   text-transform: uppercase;
 }
 
+button:focus {
+  background: #ffffff;
+  color: #ff7b08;
+}
+
 .attribution {
   font-size: 11px;
   text-align: center;
